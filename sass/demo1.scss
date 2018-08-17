@@ -1,6 +1,7 @@
-header{
-    border:green 1px solid;
+$text-color:red;
+.blog-post{
+    color:$text-color;
 }
-h1{
-    color:red;
+h2{
+    color:$text-color;
 }
